@@ -18,12 +18,27 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome to NextJS Level Unit Testing
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to **NextJS Level Unit Testing**! This book is your ultimate guide to mastering unit testing in **Next.js**. Whether you're a seasoned developer or just starting out, this book will help you take your testing skills to the next level.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+## What's Inside
+In this book, you’ll learn:
+- How to set up unit tests in Next.js using **Jest** and **React Testing Library**.
+- Testing strategies for **pages**, **components**, **API routes**, and more.
+- Handling Next.js-specific challenges like **SSR**, **SSG**, and **API mocking**.
+- Best practices to write reliable, maintainable, and efficient tests.
 
-### Jump right in
+## Who This Book Is For
+This book is designed for:
+- **Next.js Developers** who want to build reliable, testable applications.
+- Developers familiar with **JavaScript** and **React**, looking to deepen their knowledge of testing frameworks.
+- Teams aiming to improve their CI/CD workflows with automated testing.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+## How to Use This Book
+Navigate through the chapters using the sidebar. Each chapter is designed to build on the previous one, so it's best to follow the order. Feel free to skip around if you're looking for specific topics.
+
+## Stay Connected
+If you have feedback, questions, or suggestions, feel free to reach out or contribute!
+
+Ready to dive in? Let’s get started!
